@@ -4,6 +4,8 @@ ElectraPath™ is an intelligent electric vehicle (EV) charging discovery and ro
 
 As electric mobility scales, charging infrastructure often feels fragmented and unreliable. ElectraPath™ focuses on eliminating this friction by offering a unified, user-centric experience that helps EV users confidently plan journeys, discover charging stations, and manage charging sessions — all in one place.
 
+🌐 **Live Platform:** [ElectraPath](https://electrapath.vercel.app/)
+
 ---
 
 ## 🌍 The Problem
